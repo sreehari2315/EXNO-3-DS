@@ -30,6 +30,9 @@ We use this categorical data encoding technique when the features are nominal(do
 • Boxcox method
 • Yeojohnson method
 
+
+DEVELOPED BY:SREE HARI K
+REGISTER NO:212223230212
 # CODING AND OUTPUT:
 ![316275623-901b3edb-9e5e-4e2b-9bd9-fc35ad5a413e](https://github.com/sreehari2315/EXNO-3-DS/assets/139331590/c48759c2-54c6-47a8-842e-ce450c64c5f0)
 ![316275667-0f5f648d-4ee5-4305-ad29-4da7007f75bf](https://github.com/sreehari2315/EXNO-3-DS/assets/139331590/212e07df-e4c4-40a2-aa2c-9ca798d77c60)
